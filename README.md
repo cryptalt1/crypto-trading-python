@@ -1,2 +1,2 @@
 # crypto-trading-python
-Using crypto exchange data to trade using python
+Using crypto exchange data to trade in Python
